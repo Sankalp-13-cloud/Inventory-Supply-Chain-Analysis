@@ -1,4 +1,4 @@
-# Inventory_Supply_Chain_Analysis
+# Inventory_Supply_Chain_Management_Analysis
 ## Overview
 This project presents a comprehensive Power BI dashboard that provides visibility into key supply chain and inventory metrics across categories and regions. The dashboard enables stakeholders to monitor warehouse utilization, transportation costs, inventory levels, lead times, and backorder statuses. It helps drive operational efficiency and supports strategic decision-making in inventory control and logistics management.
 
